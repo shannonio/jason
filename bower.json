@@ -1,0 +1,25 @@
+{
+  "name": "vfa-dashboard",
+  "version": "0.0.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.0",
+    "lodash": "~3.10",
+    "angular": "~1.4",
+    "angular-ui-router": "~0.2",
+    "angular-resource": "~1.4",
+    "angular-cookies": "~1.4",
+    "angular-mocks": "~1.4",
+    "angular-ui-utils": "~3.0",
+    "moment": "~2.10",
+    "font-awesome": "~4.4"
+  },
+  "resolutions": {
+    "angular": "~1.4"
+  }
+}
